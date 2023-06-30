@@ -1,6 +1,6 @@
 ¡Hola!👋, Soy Imperiales Jeremias un apasionado desarrollador frontend de Argentina.
 
-🌐 Redes: LinkedIn: https://www.linkedin.com/in/jeremiasleonimperiales/ Twitter: https://twitter.com/dotdev4
+🌐 Redes: LinkedIn: https://www.linkedin.com/in/jeremiasleonimperiales/ Twitter: https://twitter.com/Jeremias_dev
 
 💻 Tech Stack: JavaScript JWT NPM NodeJS React React Router Postman MongoDB Mysql Git
 
