@@ -1,10 +1,11 @@
 ¡Hola!👋, Soy Imperiales Jeremias un apasionado desarrollador frontend de Argentina.
 
-🌐 Redes: LinkedIn: / Twitter: https://twitter.com/Jeremias_dev
-
-💻 Tech Stack: JavaScript JWT NPM NodeJS React React Router Postman MongoDB Mysql Git
-
+🌐 Redes: 
+[LinkedIn](https://www.linkedin.com/in/jeremiasleonimperiales/)
+[twitter](https://twitter.com/Jeremias_dev)
 [Portafolio](https://imperiales-jeremias.vercel.app/)
+
+💻 Tech Stack: MySql Express React NodeJs
 
 <!--
 **imperialesjeremias/imperialesjeremias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
