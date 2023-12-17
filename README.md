@@ -1,4 +1,4 @@
-¡Hola!👋, Soy Imperiales Jeremias un apasionado desarrollador frontend de Argentina.
+¡Hola!👋, Soy Imperiales Jeremias un apasionado desarrollador Backend de Argentina.
 
 🌐 Redes: 
 [LinkedIn](https://www.linkedin.com/in/jeremiasleonimperiales/)
