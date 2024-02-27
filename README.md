@@ -5,6 +5,7 @@
 [twitter](https://twitter.com/Jeremias_dev)
 
 💻 Herramientas que he usado: NestJS, Typescript, ReactJs, Python, FastAPI, Sequelize, PrismaJS, Git, Mysql
+
 💻 otros conocimientos: Microservicios, API rest, API Gateways, Docker
 
 Estoy siempre dispuesto a aprender nuevas tecnologías y a enfrentar nuevos desafíos.
