@@ -1,23 +1,12 @@
-¡Hola!👋, Soy Imperiales Jeremias un apasionado desarrollador Backend de Argentina.
+¡Hola! Soy Jeremías Leon Imperiales, un Desarrollador Full Stack de Argentina 🇦🇷.
 
 🌐 Redes: 
 [LinkedIn](https://www.linkedin.com/in/jeremiasleonimperiales/)
 [twitter](https://twitter.com/Jeremias_dev)
-[Portafolio](https://imperiales-jeremias.vercel.app/)
 
-💻 Tech Stack: MySql Express React NodeJs
+💻 Herramientas que he usado: NestJS, Typescript, ReactJs, Python, FastAPI, Sequelize, PrismaJS, Git, Mysql
+💻 otros conocimientos: Microservicios, API rest, API Gateways, Docker
 
-<!--
-**imperialesjeremias/imperialesjeremias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estoy siempre dispuesto a aprender nuevas tecnologías y a enfrentar nuevos desafíos.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+¡Gracias por visitar mi perfil de GitHub!
